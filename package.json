@@ -1,0 +1,20 @@
+{
+  "name": "da",
+  "version": "1.0.0",
+  "description": "DataAPI",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victormelnyk/data_api.git"
+  },
+  "author": "Victor Melnyk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/victormelnyk/data_api/issues"
+  },
+  "homepage": "https://github.com/victormelnyk/data_api#readme"
+}
